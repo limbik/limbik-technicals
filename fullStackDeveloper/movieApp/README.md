@@ -1,4 +1,4 @@
-# Full Stack Movie & People App
+# Full Stack Movies & People App
 Create an application using a React based frontend client, a Javascript based backend server, and a Neo4j database. 
 
 Setting up the Neo4j:
